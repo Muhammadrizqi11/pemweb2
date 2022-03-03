@@ -1,0 +1,23 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\Lenovo>cd ..
+
+C:\Users>cd ..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>cd wp2
+
+C:\xampp\htdocs\wp2>php tugas1.php
+PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\xampp\htdocs\wp2\tugas1.php on line 3
+
+Parse error: syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\xampp\htdocs\wp2\tugas1.php on line 3
+
+C:\xampp\htdocs\wp2>php tugas1.php
+nama : Muhammad rizqi
+nim : 20090059
+kelas : 4A
+C:\xampp\htdocs\wp2>
